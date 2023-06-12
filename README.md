@@ -1,6 +1,6 @@
 This is the source code to my Supernova's Todo List chrome extension
 
-If you want to get it for yourself, go here: <https://chrome.google.com/webstore/detail/ocjgbefclacaedbmoebpfccgjfacikc (not approved yet )
+If you want to get it for yourself, go here: <https://chrome.google.com/webstore/detail/ocjgbefclacaedbmoebpfccgjfacikc> (not approved yet )
 
 ### Screenshot
 
