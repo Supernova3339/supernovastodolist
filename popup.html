@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Todo List</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <div class="container">
+    <h1 class="heading">Todo List</h1>
+    <form id="todo-form">
+      <input type="text" id="todo-input" placeholder="Add a task...">
+      <input type="date" id="date-input">
+      <input type="time" id="time-input">
+      <button type="submit" id="add-button">Add</button>
+    </form>
+    <ul id="todo-list" class="todo-list"></ul>
+    <div id="alerts" class="alerts"></div>
+    <button id="clear-completed" class="clear-completed button-left">Clear Completed</button>
+    <div class="settings">
+      <a href="settings.html" class="button-right">Advanced Options</a>
+    </div>
+  </div>
+  <script src="popup.js"></script>
+</body>
+
+</html>
